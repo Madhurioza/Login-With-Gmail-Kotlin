@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12030688529",
+    "project_id": "register-firbase-kotlin",
+    "storage_bucket": "register-firbase-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12030688529:android:40a2c99fde33090a6060b0",
+        "android_client_info": {
+          "package_name": "com.example.register_firbase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12030688529-fn17eu2g3lvcb3ep86uu239mi7fd88p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.register_firbase_kotlin",
+            "certificate_hash": "205835bcb2a5684521a7df2e96c57d5eadffc386"
+          }
+        },
+        {
+          "client_id": "12030688529-0lp3545nbjdn5ne6ai6vug44rnmm0ie3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFAjyIUWI6j1bu8fZRYYm01szBkKVZ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12030688529-0lp3545nbjdn5ne6ai6vug44rnmm0ie3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
